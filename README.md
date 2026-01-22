@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working as Flow Cytometry analyst.
+- 🌱 I’m currently learning how to use R in Cytometry analysis.****
 <!--
 **kpilipow/kpilipow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
